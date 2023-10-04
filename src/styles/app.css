@@ -1,0 +1,12 @@
+@import url('https://fonts.googleapis.com/css2?family=Merriweather&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Racing+Sans+One&display=swap');
+
+.Merriweathe{
+    font-family: 'Merriweathe', serif;
+    font-size: 50px;
+    color: rgb(7, 7, 7);
+}
+
+.RacingSans{
+    font-family: 'Racing Sans One', cursive;
+}
